@@ -1,0 +1,21 @@
+/* Your Website Styles */
+
+h1{
+	color:green;
+	text-shadow:5px 8px 7px skyblue;
+}
+
+img{
+	width:400px;
+}
+
+#sports{
+	background: khaki;
+}
+#restaurants{
+	background: lavender;
+}
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}

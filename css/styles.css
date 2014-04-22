@@ -1,19 +1,42 @@
 /* Your Website Styles */
 
 h1{
+	font-size: 45px;
 	color:green;
-	text-shadow:5px 8px 7px skyblue;
+	text-shadow: 6px 8px 6px skyblue;
 }
-
+h2{
+	font-size: 45px;
+	color:green;
+	text-shadow: 6px 8px 6px skyblue;
+}
+h3{
+	font-size: 45px;
+	color:green;
+	text-shadow: 6px 8px 6px skyblue;
+}
+h4{
+	font-size: 45px;
+	color:green;
+	text-shadow: 6px 8px 6px skyblue;
+}
+.majorcontent {font-size: 20px;}
 img{
 	width:400px;
 }
-
+.AboutMecontent {font-size: 20px;}
+img{
+	width:400px;
+}
+.Whattoavoidincollegecontent {font-size: 20px;}
+img{
+	width:400px;
+}
 #sports{
-	background: khaki;
+	background: lightgreen;
 }
 #restaurants{
-	background: lavender;
+	background: lightblue;
 }
 /* Show Grid */
 .showgrid {
